@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: linear-gradient(270deg, #87EFF6 0%, #FFFFFF 100%);
+}
+
+header{
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+header nav ul{
+    display: flex;
+    gap: 10px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
